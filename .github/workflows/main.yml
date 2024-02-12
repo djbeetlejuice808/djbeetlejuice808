@@ -18,10 +18,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS }}
           config_timezone: Asia/Bangkok
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           
 
 
