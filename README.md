@@ -1,2 +1,2 @@
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-<a href="metrics.plugin.isocalendar.svg"></a>
+<p align="center"><img src="metrics.plugin.isocalendar.svg" alt="Metrics" width="400"></p>
