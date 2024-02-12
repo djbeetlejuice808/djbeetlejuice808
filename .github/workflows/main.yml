@@ -18,8 +18,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS }}
           config_timezone: Asia/Bangkok
-          base: header
-        extras_css: |
-          h2 {
-              color: red;
-            }
+          
+          
