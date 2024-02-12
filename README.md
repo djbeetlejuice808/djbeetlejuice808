@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @djbeetlejuice808
-- 🌱 I’m currently learning JAVA
+- 🌱 Cảm thấy như Hứa Văn Cường
+
 
 
 <!---
