@@ -9,15 +9,15 @@
 pragma npm ^3.10.1
 class Profile {
     constructor() {
-        this.name = "Eman Ghazy";
+        this.name = "Duong Thanh Phu";
         this.jobTitle = "Back-End Developer";
-        this.country = "Egypt";
-        this.currentlyWorking = ["Nodejs", "Mongodb", "Restful Api"];
-        this.currentlyLearning = ["Advanced Nodejs", "Mongodb with Mongoose"];
+        this.country = "Viet Nam";
+        this.currentlyWorking = ["Java", "Javascript", "Restful Api"];
+        this.currentlyLearning = ["Advanced Spring Boot"];
     }
 
     getSkills() {
-        let skills = ["Nodejs", "PHP", "Laravel", "Js", "C/C++", "HTML & CSS"];
+        let skills = ["Java", "PHP", "Laravel", "Js", "C/C++", "HTML & CSS"];
         return skills;
     }
 }
