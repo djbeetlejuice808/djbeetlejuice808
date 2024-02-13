@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS }}
 
           # Options
-          user: EmanGhazy2002
+          user: djbeetlejuice808
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
