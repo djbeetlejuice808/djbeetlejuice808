@@ -1,16 +1,11 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/24501320/158049904-efd9f43a-78ae-45f4-96f3-9fda67ee0392.png" height=170 />
 </div>
-<div id="header1" align="center">
-<!--[![committers.top badge](https://user-badge.committers.top/egypt/3bsalam-1.svg)](https://user-badge.committers.top/egypt/3bsalam-1) -->
-  <img src="https://komarev.com/ghpvc/?username=EmanGhazy2002&style=for-the-badge&color=grey&&label=PROFILE+VIEWS"/>
-</div>
+
 <div id="view" align="center">
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Back-End+Developer)](https://git.io/typing-svg)
-<!--<h1>
-  Hi.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>-->
+
 </div>
 ---
 ### 👩‍💻: About Me :
