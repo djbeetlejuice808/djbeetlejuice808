@@ -1,6 +1,6 @@
-### Hi There! Welcome to My Github Page!! :wave:
-
-
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/24501320/158049904-efd9f43a-78ae-45f4-96f3-9fda67ee0392.png" height=170 />
+</div>
 
 ---
 ### 👩‍💻: About Me :
