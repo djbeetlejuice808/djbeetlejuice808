@@ -1,10 +1,37 @@
 ### Hi There! Welcome to My Github Page!! :wave:
 
----
 
-My name is Phu Thanh . I am a fullstack Web Developer with experience in mostly PHP and Java.
 
 ---
+### 👩‍💻: About Me :
+```node
+#SPDX-License-Identifier: MIT
+pragma npm ^3.10.1
+class Profile {
+    constructor() {
+        this.name = "Eman Ghazy";
+        this.jobTitle = "Back-End Developer";
+        this.country = "Egypt";
+        this.currentlyWorking = ["Nodejs", "Mongodb", "Restful Api"];
+        this.currentlyLearning = ["Advanced Nodejs", "Mongodb with Mongoose"];
+    }
+
+    getSkills() {
+        let skills = ["Nodejs", "PHP", "Laravel", "Js", "C/C++", "HTML & CSS"];
+        return skills;
+    }
+}
+
+const myProfile = new Profile();
+console.log("Name:", myProfile.name);
+console.log("Job Title:", myProfile.jobTitle);
+console.log("Country:", myProfile.country);
+console.log("Currently Working:", myProfile.currentlyWorking);
+console.log("Currently Learning:", myProfile.currentlyLearning);
+console.log("Skills:", myProfile.getSkills());
+```
+---
+
 <img src="/427946628_451333837413783_251943014332459951_n.jpg" alt="Metrics" width="100%">
 
 ---
