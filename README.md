@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/24501320/158049904-efd9f43a-78ae-45f4-96f3-9fda67ee0392.png" height=170 />
+    <img src="/427946628_451333837413783_251943014332459951_n.jpg" alt="Metrics" width="100%" height = "50%">
 </div>
 
 
@@ -33,7 +33,6 @@ console.log("Skills:", myProfile.getSkills());
 ```
 ---
 
-<img src="/427946628_451333837413783_251943014332459951_n.jpg" alt="Metrics" width="100%">
 
 ---
 
