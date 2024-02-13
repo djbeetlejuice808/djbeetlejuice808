@@ -10,7 +10,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.stargazers.svg
-          token: ${{ secrets.METRICS }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: djbeetlejuice808
           template: classic
           base: ""
