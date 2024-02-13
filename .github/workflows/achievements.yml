@@ -12,10 +12,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS }}
-          filename: assets/metrics.plugin.achievements.svg
+          filename: metrics.plugin.achievements.svg
           
           # Options
-          user: EmanGhazy2002
+          user: djbeetlejuice808
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
