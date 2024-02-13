@@ -31,7 +31,7 @@ console.log("Currently Working:", myProfile.currentlyWorking);
 console.log("Currently Learning:", myProfile.currentlyLearning);
 console.log("Skills:", myProfile.getSkills());
 ```
----
+
 
 
 ---
