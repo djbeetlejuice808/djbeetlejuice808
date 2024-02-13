@@ -40,8 +40,12 @@ console.log("Skills:", myProfile.getSkills());
 
 ---
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
+ 
+ 
   ![Node-js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Express-js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -60,3 +64,4 @@ console.log("Skills:", myProfile.getSkills());
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
+---
