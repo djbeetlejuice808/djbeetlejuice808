@@ -14,7 +14,7 @@ jobs:
         with:
           # Current configuration doesn't require a GitHub token
           filename: metrics.plugin.overview.svg
-          token: ${{ secrets.METRICS }}
+          token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: djbeetlejuice808 
           template: classic
