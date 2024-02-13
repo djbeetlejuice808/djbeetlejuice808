@@ -22,7 +22,7 @@ jobs:
       - name: Generate Isocalendar Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS }}
           config_timezone: Asia/Bangkok
           filename: metrics.plugin.isocalendar.svg
           base: ""
