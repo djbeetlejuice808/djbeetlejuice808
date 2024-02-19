@@ -10,7 +10,7 @@
 pragma npm ^3.10.1
 class Profile {
     constructor() {
-        this.name = "Duong Thanh Phu";
+        this.name = "Thanh Phu";
         this.jobTitle = "Back-End Developer";
         this.country = "Viet Nam";
         this.currentlyWorking = ["Java", "Javascript", "Restful Api"];
