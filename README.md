@@ -32,16 +32,6 @@ console.log("Currently Learning:", myProfile.currentlyLearning);
 console.log("Skills:", myProfile.getSkills());
 ```
 
-
-
----
-
-<img src="asset/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="500">
-
----
-
-
-
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
  
